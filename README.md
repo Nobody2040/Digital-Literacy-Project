@@ -22,7 +22,7 @@ digital-literacy-project/
 Project_Report.docx          # Full structured project report 
 DIGITAL_LITERACY.docx        # Task write-ups (Tasks 1–5)
 CYBERCRIME_CASE_STUDY.docx   # UPI fraud case study (Task 5)
- Aditya_Gupta.pdf             # Digital literacy infographic / presentation
+ Aarav Ahlawat.pdf             # Digital literacy infographic / presentation
 
 
 ---
